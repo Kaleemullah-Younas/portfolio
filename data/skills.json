@@ -1,0 +1,19 @@
+{
+    "skill": [
+        {
+            "name": "Data Scientist",
+            "description": "Conversion of complex/raw data into understandable result output...",
+            "projects_completed": 11
+        },
+        {
+            "name": "ML/AI Engineer",
+            "description": "Build ML/AI various tools usable in daily life, As you know, AI IS THE FUTURE...",
+            "projects_completed": 10
+        },
+        {
+            "name": "Front-End Developer",
+            "description": "Development of beautiful and unique user interfaces...",
+            "projects_completed": 12
+        }   
+    ]
+}
