@@ -1,4 +1,4 @@
-# portfolio
+# Portfolio
 Custom portfolio website resources.
 
 # NOTE 
