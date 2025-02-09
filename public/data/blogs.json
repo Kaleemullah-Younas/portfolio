@@ -1,0 +1,162 @@
+[
+    {
+        "slug": "Market Basket Analysis with Apriori Algorithm",
+        "title": "Market Basket Analysis with Apriori Algorithm",
+        "imageUrl": "/blogs/mba.png",
+        "excerpt": "Uncovering the secret behind why breads are always conveniently placed beside butter in groceries...",
+        "date": "2025-01-30",
+        "mediumUrl": "https://medium.com/@kaleemullahyounas123/bagging-boosting-and-stacking-ensemble-learning-in-ml-models-8eb2f73afb07"
+    },
+    {
+        "slug": "What Are the 7 Best Data Mining Tools?",
+        "title": "What Are the 7 Best Data Mining Tools?",
+        "imageUrl": "/blogs/best.png",
+        "excerpt": "It would hardly be controversial to say that big data is at the heart of most 21st-century business activities...",
+        "date": "2025-01-27",
+        "mediumUrl": "https://medium.com/@kaleemullahyounas123/what-are-the-7-best-data-mining-tools-4ec61c449c07"
+    },
+    {
+        "slug": "Bagging, Boosting and Stacking: Ensemble Learning in ML Models",
+        "title": "Bagging, Boosting and Stacking: Ensemble Learning in ML Models",
+        "imageUrl": "/blogs/bbs.png",
+        "excerpt": "Ensemble learning combines multiple learners to improve predictive performance. It has been...",
+        "date": "2025-01-25",
+        "mediumUrl": "https://medium.com/@kaleemullahyounas123/bagging-boosting-and-stacking-ensemble-learning-in-ml-models-8eb2f73afb07"
+    },
+    {
+        "slug": "The untold story of Big Data, Data Science & Data Mining",
+        "title": "The untold story of Big Data, Data Science & Data Mining",
+        "imageUrl": "/blogs/DM.png",
+        "excerpt": "We live in a world where the amount of data has increased on a large scale in various fields...",
+        "date": "2025-01-23",
+        "mediumUrl": "https://medium.com/@kaleemullahyounas123/the-untold-story-of-big-data-data-science-data-mining-155292871bbc"
+    },
+    {
+        "slug": "Dimensionality reduction technique — PCA (Principal component Analysis)",
+        "title": "Dimensionality reduction technique — PCA (Principal component Analysis)",
+        "imageUrl": "/blogs/PCA.png",
+        "excerpt": "Using PCA, we can find the correlation between data points, such as whether...",
+        "date": "2025-01-21",
+        "mediumUrl": "https://medium.com/@kaleemullahyounas123/machine-learning-decision-tree-regressor-5ed5cd244eac"
+    },
+    {
+        "slug": "Decision Trees for Classification and Regression",
+        "title": "Decision Trees for Classification and Regression",
+        "imageUrl": "/blogs/CaR.png",
+        "excerpt": "Decision trees are a common type of machine learning model used for binary classification tasks...",
+        "date": "2025-01-19",
+        "mediumUrl": "https://medium.com/@kaleemullahyounas123/decision-trees-for-classification-and-regression-45ce9be77625"
+    },
+    {
+        "slug": "DBSCAN another clustering Algorithm for Machine Learning",
+        "title": "DBSCAN another clustering Algorithm for Machine Learning",
+        "imageUrl": "/blogs/DBSCAN.png",
+        "excerpt": "Clustering is a fundamental machine learning and data science technique that involves grouping similar data...",
+        "date": "2025-01-16",
+        "mediumUrl": "https://medium.com/@kaleemullahyounas123/dbscan-another-clustering-algorithm-for-machine-learning-89885f555a2e"
+    },
+    {
+        "slug": "Machine Learning — Decision Tree Regressor",
+        "title": "Machine Learning — Decision Tree Regressor",
+        "imageUrl": "/blogs/regressor.png",
+        "excerpt": "Decision Trees aren’t limited to categorizing data — they’re equally good at predicting numerical values! Classification trees...",
+        "date": "2025-01-13",
+        "mediumUrl": "https://medium.com/@kaleemullahyounas123/machine-learning-decision-tree-regressor-5ed5cd244eac"
+    },
+    {
+        "slug": "Machine Learning — Decision Tree Classifier for Classification problem",
+        "title": "Machine Learning — Decision Tree Classifier for Classification problem",
+        "imageUrl": "/blogs/ML.png",
+        "excerpt": "When you first hear about decision trees, you might imagine a flowchart — something that starts with a question...",
+        "date": "2025-01-10",
+        "mediumUrl": "https://medium.com/@kaleemullahyounas123/machine-learning-decision-tree-classifier-for-classifica-46d4e9e5f562"
+    },
+    {
+        "slug": "Introduction to the Basics of Decision Tree",
+        "title": "Introduction to the Basics of Decision Tree",
+        "imageUrl": "/blogs/DT.png",
+        "excerpt": "Decision Trees are the foundation for many classical machine learning algorithms like Random Forests, Bagging...",
+        "date": "2025-01-07",
+        "mediumUrl": "https://medium.com/@kaleemullahyounas123/introduction-to-the-basics-of-decision-tree-a191a77f74ae"
+    },
+    {
+        "slug": "Support Vector Machine (SVM) Beginning to last in ML",
+        "title": "Support Vector Machine (SVM) Beginning to last in ML",
+        "imageUrl": "/blogs/svm.png",
+        "excerpt": "Support Vector Machine (SVM) is one of the Machine Learning (ML) Supervised algorithms...",
+        "date": "2025-01-04",
+        "mediumUrl": "https://medium.com/@kaleemullahyounas123/support-vector-machine-svm-beginning-to-last-in-ml-230363a275a8"
+    },
+    {
+        "slug": "Logistic Regression — Technique for Classification problems",
+        "title": "Logistic Regression — Technique for Classification problems",
+        "imageUrl": "/blogs/logistic.png",
+        "excerpt": "Logistic regression is a statistical model used to predict the probability of a binary outcome...",
+        "date": "2025-01-18",
+        "mediumUrl": "https://medium.com/@kaleemullahyounas123/logistic-regression-technique-for-classification-problems-639000510fe5"
+    },
+    {
+        "slug": "AI vs ML vs DL vs NN: What’s the difference?",
+        "title": "AI vs ML vs DL vs NN: What’s the difference?",
+        "imageUrl": "/blogs/AINL.png",
+        "excerpt": "Technology is becoming more embedded in our daily lives by the minute. To keep up with the pace of consumer expectations...",
+        "date": "2025-01-15",
+        "mediumUrl": "https://medium.com/@kaleemullahyounas123/ai-vs-ml-vs-dl-vs-nn-whats-the-difference-2622e20577af"
+    },
+    {
+        "slug": "What is linear regression?",
+        "title": "What is linear regression?",
+        "imageUrl": "/blogs/regression.png",
+        "excerpt": "Linear regression analysis is used to predict the value of a variable based on the value of another variable. The variable you want to predict is called...",
+        "date": "2025-01-12",
+        "mediumUrl": "https://medium.com/@kaleemullahyounas123/what-is-linear-regression-a92401bdd8e8"
+    },
+    {
+        "slug": "From the Beginning of ML",
+        "title": "From the Beginning of ML",
+        "imageUrl": "/blogs/Begins.png",
+        "excerpt": "Should I learn now… or later? Learning is a universal skill/trait that is acquired by any living organism on this planet. Learning is defined by: the...",
+        "date": "2025-01-09",
+        "mediumUrl": "https://medium.com/@kaleemullahyounas123/from-the-beginning-of-ml-6b318c3aa36c"
+    },
+    {
+        "slug": "K-Means Clustering — selection of clusters (unsuperivsed learning)",
+        "title": "K-Means Clustering — selection of clusters (unsuperivsed learning)",
+        "imageUrl": "/blogs/Kmeans.png",
+        "excerpt": "K-means clustering is an unsupervised learning machine learning algorithm. In an unsupervised algorithm...",
+        "date": "2025-01-06",
+        "mediumUrl": "https://medium.com/@kaleemullahyounas123/k-means-clustering-selection-of-clusters-unsuperivsed-learning-b1788fdfe29a"
+    },
+    {
+        "slug": "K-nearest neighbors (KNN) Algorithm in ML",
+        "title": "K-nearest neighbors (KNN) Algorithm in ML",
+        "imageUrl": "/blogs/KNN.png",
+        "excerpt": "In this article, we will talk about one such widely used machine learning classification technique...",
+        "date": "2025-01-17",
+        "mediumUrl": "https://medium.com/@kaleemullahyounas123/k-nearest-neighbors-knn-algorithm-in-ml-9f9ecfe57280"
+    },
+    {
+        "slug": "DeepSeek is next Future, but have various issues",
+        "title": "DeepSeek is next Future, but have various issues",
+        "imageUrl": "/blogs/deepseek.png",
+        "excerpt": "DeepSeek has taken the Generative AI arena by storm. Both their models, be it DeepSeek-v3 or DeepSeek-R1...",
+        "date": "2025-01-14",
+        "mediumUrl": "https://medium.com/@kaleemullahyounas123/deepseek-is-next-future-but-have-various-issues-f04823700bfd"
+    },
+    {
+        "slug": "Clustering is Complex Chemistry in AI and ML",
+        "title": "Clustering is Complex Chemistry in AI and ML",
+        "imageUrl": "/blogs/Clustering.png",
+        "excerpt": "Clustering is one of the most fascinating and fundamental techniques in machine learning. Often compared...",
+        "date": "2025-01-11",
+        "mediumUrl": "https://medium.com/@kaleemullahyounas123/clustering-is-complex-chemistry-in-ai-and-ml-c8976feeb9cf"
+    },
+    {
+        "slug": "Comparative Analysis of Linear and Logistic Regression",
+        "title": "Comparative Analysis of Linear and Logistic Regression",
+        "imageUrl": "/blogs/LR.png",
+        "excerpt": "Linear and logistic regression are two fundamental techniques in statistical modeling and machine learning...",
+        "date": "2025-01-08",
+        "mediumUrl": "https://medium.com/@kaleemullahyounas123/comparative-analysis-of-linear-and-logistic-regression-e92436b3fd6e"
+    }
+]

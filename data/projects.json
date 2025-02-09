@@ -1,0 +1,88 @@
+{
+    "projects":[
+        {
+            "title": "FauxFinder_Real VS Fake Art",
+            "imageUrl": "https://reputationtoday.in/wp-content/uploads/2018/06/Real-or-Fake-1.png",
+            "project_url": "https://github.com/Kaleemullah-Younas/FauxFinder-Real-vs-Fake-Art-Detection",
+            "description": "Project uses DCGAN to Generate Fake Art & CNN & Pre-trained model to identify Art as REAL or FAKE.",
+            "tags": [ "Python", "CNN", "DCGAN" ]
+        },
+        {
+            "title": "Applicant Tracking System (ATS)",
+            "imageUrl": "https://brainyhr.io/storage/cache/1364x660/4acac173c446df8307cc655a41891c39.jpg    ",
+            "project_url": "https://github.com/Kaleemullah-Younas/Applicant-Tracking-System-ATS",
+            "description": "This intelligent system evaluates resumes against job descriptions using cutting-edge AI models.",
+            "tags": [ "Python", "API", "Streamlit" ]
+        },
+        {
+            "title": "Stock Analysis Chatbot Assistant",
+            "imageUrl": "https://www.shutterstock.com/image-photo/digital-chatbot-assistant-conversation-provide-600nw-2232434469.jpg",
+            "project_url": "https://github.com/Kaleemullah-Younas/Stock-Analysis-Chatbot-Assistant",
+            "description": "Ask any Financial insights with our Stock Analysis Chatbot Assistant built using OpenAI_API",
+            "tags": [ "Python", "OpenAI_API", "Azure" ]
+        },
+        {
+            "title": "Music Mood Prediction System",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbsf-mfyUZu0aF1ODPm72gBAw045w3dTif5w&s",
+            "project_url": "https://github.com/Kaleemullah-Younas/Music-Mood-Predictor",
+            "description": "The application offers an interactive experience, learned on spotify songs, will predict the mood of the song.",
+            "tags": [ "Python", "RF_Algo", "Azure" ]
+        },
+        {
+            "title": "Movie Recommendation System",
+            "imageUrl": "https://res.cloudinary.com/daily-now/image/upload/f_auto,q_auto/v1/posts/2d3080b1de07b58afe8d03d26c6c44e1?_a=AQAEufR",
+            "project_url": "https://github.com/Kaleemullah-Younas/Movie-Recommender-System",
+            "description": "This application gives personalized movie recommendations based on user preferences.",
+            "tags": [ "Python", "Consine", "Streamlit" ]
+        },
+        {
+            "title": "2048 Game",
+            "imageUrl": "https://images.crazygames.com/games/2048/cover_16x9-1707828856995.png?auto=format,compress&q=75&cs=strip",
+            "project_url": "https://github.com/Kaleemullah-Younas/2048-Game",
+            "description": "Gaming experience with our Qt5 Creator Framework and C++ crafted 2048 game project.",
+            "tags": [ "C++", "Qt5", "locally" ]
+        },
+        {
+            "title": "Loan Eligiblity Prediction",
+            "imageUrl": "https://www.incharge.org/wp-content/uploads/2020/03/paying-off-a-loan-early.jpg",
+            "project_url": "https://github.com/Kaleemullah-Younas/Loan-Eligibility-Predictor",
+            "description": "Simplify the loan application process for individuals by providing them their loan eligibility.",
+            "tags": [ "Python", "SVM", "Streamlit" ]
+        },
+        {
+            "title": "Smart E-Dictionary",
+            "imageUrl": "https://www.addsearch.com/wp-content/uploads/2019/12/autocomplete-no-text.png",
+            "project_url": "https://github.com/Kaleemullah-Younas/Smart-E-Dictionary",
+            "description": "This C++ application uses powerful trie data structure for fast and efficient word searching in a dictionary.",
+            "tags": [ "C++", "Trie DS", "locally" ]
+        },
+        {
+            "title": "Medical Insurance Cost Forest",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSykO-9mQfwcdMOjgY4SH7UF13PnZq5t0rzew&s",
+            "project_url": "https://github.com/Kaleemullah-Younas/Medical-Insurance-Cost-Forecast",
+            "description": "The MICF is designed to assist individuals in estimating their medical insurance expenses.",
+            "tags": [ "Python", "LR", "Streamlit" ]
+        },
+        {
+            "title": "Stock Closing Price Prediction",
+            "imageUrl": "https://miro.medium.com/v2/resize:fit:640/1*hVQp6GjkMF0ynqCLPxSAgA.png",
+            "project_url": "https://github.com/Kaleemullah-Younas/Stock-Closing-Price-Prediction",
+            "description": "Predict stock closing prices with our advanced machine learning and deep learning model.",
+            "tags": [ "Python", "LSTM", "Streamlit" ]
+        },
+        {
+            "title": "Shared Expense Management",
+            "imageUrl": "https://i0.wp.com/juntrax.com/blog/wp-content/uploads/2020/10/Expenses-Management-System-Featured-Juntrax.jpg?fit=744%2C400&ssl=1",
+            "project_url": "https://github.com/Kaleemullah-Younas/Shared-Expense-Management-System",
+            "description": "SEMS is the console-based application used to calculate the expenses coded in C++.",
+            "tags": [ "C++", "OOP", "locally" ]
+        },
+        {
+            "title": "Facial Landmark Detector (FLD)",
+            "imageUrl": "https://www.algoface.ai/wp-content/uploads/2022/07/Banner-Facial-Landmarks.jpg",
+            "project_url": "https://github.com/Kaleemullah-Younas/facial_landmark_detector_api",
+            "description": "Facial Landmark Detection API using OpenCV, dlib, worked on project as Jr.Python Developer",
+            "tags": [ "Python", "OpenCV", "Jr.Dev" ]
+        }
+    ]
+}

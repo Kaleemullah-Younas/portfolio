@@ -1,0 +1,19 @@
+{
+    "skill": [
+        {
+            "name": "Data Scientist",
+            "description": "Conversion of complex/raw data into actionable results via ML/AL/DL...",
+            "projects_completed": 15
+        },
+        {
+            "name": "Front-End Developer",
+            "description": "Development of beautiful and unique user interfaces...",
+            "projects_completed": 12
+        }, 
+        {
+            "name": "Jr. Python Developer",
+            "description": "Worked with multiple python libraries and problem solving tasks...",
+            "projects_completed": 20
+        }  
+    ]
+}
